@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m Marvin.
-- 👀 I’m interested in Technology, Leadership, Business, Data, Energy and Anime.
+- 👀 I’m interested in Technology, Leadership, Business, Data, Renewable Energy and Anime.
 - 👨🏽‍🔬 I’m am a Chemical Engineer and a Software Engineer.
-- 🙏🏽 I’m looking to collaborate on Data and Software Development Projects.
+- 🙏🏽 I’m looking to collaborate on Data, Software Development and Energy Projects.
 - 📧 Send me a mail through marvin@vintersect.com
 - 📑 View my portfolio on https://marvin.vintersect.com
 
