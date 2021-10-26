@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Marvin O.
+- 👋🏽 Hi, I’m Marvin.
 - 👀 I’m interested in Technology, Leadership, Business, Data, Energy and Anime.
-- 🌱 I’m currently building my Software Engineering competences.
-- 💞️ I’m looking to collaborate on Data and Software Development Projects.
-- 📫 Send me a mail through marvin@vintersect.com
+- 👨🏽‍🔬 I’m am a Chemical Engineer and a Software Engineer.
+- 🙏🏽 I’m looking to collaborate on Data and Software Development Projects.
+- 📧 Send me a mail through marvin@vintersect.com
+- 📑 View my portfolio on https://marvin.vintersect.com
 
 <!---
 marvintersect/marvintersect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
